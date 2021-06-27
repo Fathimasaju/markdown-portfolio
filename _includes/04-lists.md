@@ -1,4 +1,4 @@
 My favorite fruits 
-*Orange
-*mango
-*Apple
+* orange
+* mango
+* Apple
